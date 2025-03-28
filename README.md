@@ -14,7 +14,7 @@
 
 You can play the game by downloading and installing the APK file on your Android device:
 
-👉 **[Download Knight Adventures v1.1 Beta](./Knight%20Adventures.apk)**
+👉 **[Download Knight Adventures v1.1 Beta](https://raw.githubusercontent.com/luizbizzio/knight-adventures/refs/heads/main/Knight%20Adventures.apk)**
 
 Once downloaded, install it manually on your phone. You may need to allow installation from unknown sources.
 
