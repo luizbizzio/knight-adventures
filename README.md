@@ -430,3 +430,9 @@ In *Knight Adventures*, death is permanent — so every step counts.
 
 That’s the full walkthrough for **Knight Adventures**! You’ve traveled from a humble wooden house, across forests and lava pits, through snowy peaks and onto floating islands, all the way into outer space. Enjoy the game, and thanks for playing!
 
+## License 📄
+
+This project is licensed under the [PolyForm Noncommercial License 1.0.0](./LICENSE).
+
+Commercial use, resale, and paid services are not permitted.
+
