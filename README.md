@@ -8,13 +8,13 @@
 
 > 📝 *The game’s in-game text and dialogue are in **Brazilian Portuguese (PT-BR)**.*
 
-⚠️ This is version **1.1 Beta**, the last known build of the game. The original Unity project was lost and this version is being shared for archival purposes.
+⚠️ This is version **0.6 Beta**, the last known build of the game. The original Unity project was lost and this version is being shared for archival purposes.
 
 ## 📲 Install the Game
 
 You can play the game by downloading and installing the APK file on your Android device:
 
-👉 **[Download Knight Adventures v1.1 Beta](https://raw.githubusercontent.com/luizbizzio/knight-adventures/refs/heads/main/Knight%20Adventures.apk)**
+👉 **[Download Knight Adventures v0.6 Beta](https://raw.githubusercontent.com/luizbizzio/knight-adventures/refs/heads/main/Knight%20Adventures.apk)**
 
 Once downloaded, install it manually on your phone. You may need to allow installation from unknown sources.
 
@@ -373,7 +373,7 @@ Your journey is over — but something tells you the adventure isn’t truly fin
 
 ## 🐣 Easter Eggs
 
-**Knight Adventures** is filled with mysterious details and hidden oddities. Some are visual gags, others are secret paths or references. Here are five of the most interesting Easter Eggs discovered in version 1.1 Beta:
+**Knight Adventures** is filled with mysterious details and hidden oddities. Some are visual gags, others are secret paths or references. Here are five of the most interesting Easter Eggs discovered in version 0.6 Beta:
 
 ---
 
@@ -412,7 +412,7 @@ If you **ignore the portal** and keep walking to the right instead of finishing 
 - **No Checkpoints**: If you die by falling into pits or traps, you must restart. Stay alert!
 - **Exclamation Marks (!)**: These are the game’s main interaction points. Tap them to progress dialogue or unlock new areas.
 - **Locked Doors**: Generally require a key or story event. Keep track of locked areas you can’t access yet.
-- **Beta Version**: Knight Adventures v1.1 Beta doesn’t have all intended features, and some areas may feel incomplete or glitchy.
+- **Beta Version**: Knight Adventures v0.6 Beta doesn’t have all intended features, and some areas may feel incomplete or glitchy.
 
 ---
 
