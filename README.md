@@ -1,4 +1,5 @@
-# 🎮 Knight Adventures – Game Install & Walkthrough
+<h1 align="center">Knight Adventures</h1>
+<h3 align="center">Game Install & Walkthrough</h3>
 
 <div align="center">
   <img src="./images/app_icon.png" alt="Knight Adventures Logo" />
